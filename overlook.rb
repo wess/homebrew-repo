@@ -7,7 +7,7 @@ class Overlook < Formula
   homepage  "http://github.com/wess/overlook"
   url       "https://github.com/wess/overlook/archive/0.0.1.tar.gz"
   version   "0.0.1"
-  sha256    "c752b089a5bbaf699ce622b6f702f73bc36eff9c8faf6be9c411f09e075eaf11"
+  sha256    "1a18c418c2b7e8554d00042f01aba4ddeb51605dc6eb835388fa450455781e5a"
   head      "https://github.com/wess/overlook.git"
 
   def install
