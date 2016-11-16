@@ -6,8 +6,7 @@ class Overlook < Formula
   url       "https://github.com/wess/overlook/archive/master.zip"
 
   def install 
-    system "swift build -c release"
-    system "mv .build/release/overlook overlook"
+    system "make release"
 
     bin.install "overlook"
   end
