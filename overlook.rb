@@ -5,9 +5,9 @@
 class Overlook < Formula
   desc      "File monitoring"
   homepage  "http://github.com/wess/overlook"
-  url       "https://github.com/wess/overlook/archive/0.0.1.tar.gz"
-  version   "0.0.1"
-  sha256    "1a18c418c2b7e8554d00042f01aba4ddeb51605dc6eb835388fa450455781e5a"
+  url       "https://github.com/wess/overlook/archive/0.1.0.tar.gz"
+  version   "0.1.0"
+  sha256    "842e96abf699af3722b14701ec40ae9d4790e1e5a31418bf65249f68ebe83f61"
   head      "https://github.com/wess/overlook.git"
 
   def install
